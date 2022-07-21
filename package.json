@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/tebellox.lwc-l5v4e1op",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 8t8ed4VDcXmYPj3xatl9 --open"
+  }
+}
